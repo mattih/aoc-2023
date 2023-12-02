@@ -1,0 +1,8 @@
+# Environment configs
+.env*
+
+# MacOS specific
+.DS_Store
+
+# Node specific
+node_modules
